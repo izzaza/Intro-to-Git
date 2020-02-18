@@ -1,3 +1,3 @@
-Name = Izza
+Name = Izza Fauziah
 Address = Jombang
 HP = 089683060652
